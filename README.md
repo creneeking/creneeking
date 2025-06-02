@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @creneeking
-- 👀 I’m interested in Full-Stack Development, Project Management & DevOps,
+- 👀 I’m interested in DevOps, CyberSecurity, AI
 - 🌱 I’m currently learning full-stack deve Project Management & DevOps
 - 💞️ I’m looking to collaborate on anything Tech!
 - 📫 How to reach me ...
